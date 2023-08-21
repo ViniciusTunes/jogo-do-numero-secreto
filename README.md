@@ -3,7 +3,7 @@
 
 <p><em>Este repositório contém o código-fonte para um jogo de adivinhar o Número Secreto, não podendo sortear o mesmo número caso seja sorteado.</em></p>
 
-<h2>:desktop: Tecnologias Utilizadas:</h2>
+<h2>🖥️ Tecnologias Utilizadas:</h2>
   <ul>
       <li>JavaScript</li>
       <li>Visual Studio Code</li>
@@ -12,6 +12,6 @@
       <li>Pluigin WindowBuilder</li>
    </ul>
 
- ## :mobile_phone: Redes Sociais:
+ ## 📱 Redes Sociais:
 * Meu [GitHub](https://github.com/ViniciusTunes)
 * Meu [Instagram](https://www.instagram.com/yng.Vinicius/)
