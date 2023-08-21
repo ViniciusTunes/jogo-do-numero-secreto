@@ -9,7 +9,6 @@
       <li>Visual Studio Code</li>
       <li>Css</li>
       <li>Html</li>
-      <li>Pluigin WindowBuilder</li>
    </ul>
 
  ## 📱 Redes Sociais:
